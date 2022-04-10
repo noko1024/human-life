@@ -3,7 +3,7 @@ name: タスク追加
 about: タスク忘れていると思われるとき or タスクを依頼したいとき
 title: ''
 labels: NEW
-assignees: ''
+assignees: noko1024
 
 ---
 
