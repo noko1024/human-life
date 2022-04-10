@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Issue
+    about: Task New
+    url: https://github.com/noko1024/human-life/issues/new?template=TaskNew.md&projects=noko1024/projects/2&labels=NEW&assignees=noko1024
