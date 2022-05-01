@@ -1,5 +1,5 @@
 # human-life
-ToDoリストです。  
+[ToDoリスト](https://github.com/users/noko1024/projects/2)です。  
 何か確認したいことがありましたら[ディスカッション](https://github.com/noko1024/human-life/discussions)などからご連絡下さい
 
 ## issueについて
